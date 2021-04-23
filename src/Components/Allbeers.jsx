@@ -50,7 +50,7 @@ const showBeers=() =>{
             Cody is cool!!
 
             {showBeers()}
-        </div>
+gi        </div>
     );
 };
 
